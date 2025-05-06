@@ -10,7 +10,7 @@ banco.crear_cuenta("222","Rogelio",500.0)
 banco.crear_cuenta("333","Mario",5000)
 '''
 banco.cargar_cuentas()
-banco.crear_transferencia("333","111",500)
+banco.crear_transferencia("333","111",400)
 banco.guardar_cuentas()
 
 
